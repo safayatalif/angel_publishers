@@ -630,9 +630,9 @@ th {
 }
 .p2-bg,
 .btn-first.color-2:after {
-  background-image: -moz-linear-gradient(90deg, #494bf0 0%, #4beaf7 100%);
-  background-image: -webkit-linear-gradient(90deg, #494bf0 0%, #4beaf7 100%);
-  background-image: -ms-linear-gradient(90deg, #494bf0 0%, #4beaf7 100%);
+  background-image: -moz-linear-gradient(90deg, #000000 0%, #220036 100%);
+  background-image: -webkit-linear-gradient(90deg, #000000 0%, #350455 100%);
+  background-image: -ms-linear-gradient(90deg, #000000 0%, #350455 100%);
 }
 .p2-right-bg,
 .social-btn.color-2:after,
@@ -647,15 +647,15 @@ th {
 .cta-area.color-2,
 .modal-content.color-2 .login-btn,
 .modal-content.color-3 .login-btn {
-  background-image: -moz-linear-gradient(0deg, #494bf0 0%, #4bebf7 100%);
-  background-image: -webkit-linear-gradient(0deg, #494bf0 0%, #4bebf7 100%);
-  background-image: -ms-linear-gradient(0deg, #494bf0 0%, #4bebf7 100%);
+  background-image: -moz-linear-gradient(0deg, #000000 0%, #6600b9 100%);
+  background-image: -webkit-linear-gradient(0deg, #000000 0%, #6600b9 100%);
+  background-image: -ms-linear-gradient(0deg, #000000 0%, #6600b9 100%);
 }
 .p3-bg,
 .btn-first.color-3:after {
-  background-image: -moz-linear-gradient(90deg, #3dc4de 0%, #53ffb0 100%);
-  background-image: -webkit-linear-gradient(90deg, #3dc4de 0%, #53ffb0 100%);
-  background-image: -ms-linear-gradient(90deg, #3dc4de 0%, #53ffb0 100%);
+  background-image: -moz-linear-gradient(90deg, #d21dff 0%, #7e0378 100%);
+  background-image: -webkit-linear-gradient(90deg, #d21dff 0%, #7e0378 100%);
+  background-image: -ms-linear-gradient(90deg, #d21dff 0%, #7e0378 100%);
 }
 .p3-right-bg,
 .social-btn.color-3:after,
@@ -668,9 +668,9 @@ th {
 .active-more-books.color-3 .total-overlay:after,
 .active-review-carousel.color-3 .owl-dot.active,
 .cta-area.color-3 {
-  background-image: -moz-linear-gradient(0deg, #3dc4de 0%, #53ffb0 100%);
-  background-image: -webkit-linear-gradient(0deg, #3dc4de 0%, #53ffb0 100%);
-  background-image: -ms-linear-gradient(0deg, #3dc4de 0%, #53ffb0 100%);
+  background-image: -moz-linear-gradient(0deg, #d21dff 0%, #7e0378 100%);
+  background-image: -webkit-linear-gradient(0deg, #d21dff 0%, #7e0378 100%);
+  background-image: -ms-linear-gradient(0deg, #d21dff 0%, #7e0378 100%);
 }
 .p4-bg {
   background: #f53c79;
@@ -915,10 +915,10 @@ th {
   color: #e23970;
 }
 .info.color-2 {
-  color: #494bf0;
+  color: #000000;
 }
 .info.color-3 {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .info.color-4 {
   color: #f53c79;
@@ -966,7 +966,7 @@ th {
   padding: 0;
   font-family: "Abril Fatface", cursive;
   font-weight: 500;
-  color: #333;
+  color: #000000;
   font-size: 14px;
   text-transform: uppercase;
   cursor: pointer;
@@ -978,16 +978,16 @@ th {
   color: #f54471;
 }
 .default-header .navbar-nav.color-2 .nav-link:hover {
-  color: #494bf0;
+  color: #7c08e9;
 }
 .default-header .navbar-nav.color-2 .dropdown-ct li a:hover {
-  color: #494bf0;
+  color: #000000;
 }
 .default-header .navbar-nav.color-3 .nav-link:hover {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .default-header .navbar-nav.color-3 .dropdown-ct li a:hover {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .default-header .navbar-nav.color-4 .nav-link:hover {
   color: #f53c79;
@@ -1521,7 +1521,7 @@ th {
   -webkit-text-fill-color: #333;
 }
 .book-accordion .book-card-header.color-2 h5 a {
-  background: -webkit-linear-gradient(-135deg, #4beaf7, #494bf0);
+  background: -webkit-linear-gradient(-135deg, #350455, #000000);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1534,7 +1534,7 @@ th {
   -webkit-text-fill-color: #333;
 }
 .book-accordion .book-card-header.color-3 h5 a {
-  background: -webkit-linear-gradient(-135deg, #3dc4de, #53feb0);
+  background: -webkit-linear-gradient(-135deg, #d21dff, #53feb0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1623,12 +1623,12 @@ th {
   -webkit-text-fill-color: transparent;
 }
 .single-event-table.color-2:hover .date {
-  background: -webkit-linear-gradient(135deg, #494ef0, #4beaf7);
+  background: -webkit-linear-gradient(135deg, #494ef0, #350455);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .single-event-table.color-3:hover .date {
-  background: -webkit-linear-gradient(135deg, #53feb0, #3dc4de);
+  background: -webkit-linear-gradient(135deg, #53feb0, #d21dff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1682,20 +1682,20 @@ th {
   color: #f53f75;
 }
 .download-card.color-2:hover p {
-  background: -webkit-linear-gradient(135deg, #4beaf7, #494ef0);
+  background: -webkit-linear-gradient(135deg, #350455, #494ef0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .download-card.color-2:hover span {
-  color: #494bf0;
+  color: #000000;
 }
 .download-card.color-3:hover p {
-  background: -webkit-linear-gradient(135deg, #53feb0, #3dc4de);
+  background: -webkit-linear-gradient(135deg, #53feb0, #d21dff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .download-card.color-3:hover span {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .download-card.color-4:hover p {
   color: #f53c79;
@@ -1731,10 +1731,10 @@ th {
   color: #f53d78;
 }
 .footer-content p.color-2 a:hover {
-  color: #494bf0;
+  color: #000000;
 }
 .footer-content p.color-3 a:hover {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .footer-content p.color-4 a:hover {
   color: #f53c79;
@@ -1953,32 +1953,32 @@ th {
   color: #e23970 !important;
 }
 .modal-content.color-2 {
-  border: 1px solid #494bf0;
+  border: 1px solid #000000;
 }
 .modal-content.color-2 .login-btn:hover {
   color: #fff;
-  border: 1px solid #494bf0;
+  border: 1px solid #000000;
   background: transparent;
 }
 .modal-content.color-2 .forgot:hover {
-  color: #494bf0;
+  color: #000000;
 }
 .modal-content.color-2 .d-acount a {
-  color: #494bf0 !important;
+  color: #000000 !important;
 }
 .modal-content.color-3 {
-  border: 1px solid #3dc4de;
+  border: 1px solid #d21dff;
 }
 .modal-content.color-3 .login-btn:hover {
   color: #fff;
-  border: 1px solid #3dc4de;
+  border: 1px solid #d21dff;
   background: transparent;
 }
 .modal-content.color-3 .forgot:hover {
-  color: #3dc4de;
+  color: #d21dff;
 }
 .modal-content.color-3 .d-acount a {
-  color: #3dc4de !important;
+  color: #d21dff !important;
 }
 .modal-content.color-4 {
   border: 1px solid #f53c79;
