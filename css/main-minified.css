@@ -105,6 +105,7 @@ h3,
 h4,
 .h4 {
   font-size: 18px;
+  line-height: 1.7rem;
 }
 h5,
 .h5 {
@@ -699,7 +700,7 @@ th {
   line-height: 40px;
   border-radius: 20px;
   color: #333;
-  border: 1px solid #eeeeee;
+  border: 1px solid purple;
   font-family: "Abril Fatface", cursive;
   text-transform: uppercase;
   cursor: pointer;
