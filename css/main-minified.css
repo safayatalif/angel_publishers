@@ -1752,11 +1752,11 @@ th {
   width: 100%;
   line-height: 40px;
   padding: 0 20px;
-  border: 1px solid #eeeeee;
+  border: 1px solid purple;
 }
 .single-input input:focus {
   outline: none;
-  border: 1px solid transparent;
+  border: 1px solid rgb(34, 0, 34);
   box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1);
 }
 .single-input textarea {
@@ -1766,11 +1766,11 @@ th {
   height: 140px;
   resize: none;
   border: none;
-  border: 1px solid #eeeeee;
+  border: 1px solid purple;
 }
 .single-input textarea:focus {
   outline: none;
-  border: 1px solid transparent;
+  border: 1px solid rgb(39, 0, 39);
   box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1);
 }
 .subscription input {
@@ -1851,7 +1851,7 @@ th {
   border: none;
   background: #f9fafc;
   display: inline-block;
-  border: 1px solid #fff;
+  border: 2px solid purple;
   font-size: 13px;
 }
 .modal-input input:focus {
